@@ -1,5 +1,5 @@
 # FLOReve
-projeto da disciplina de Oficina de Integração 1 - nota final 9.5
+projeto da disciplina de Oficina de Integração 1
 
 CRUD simples para gerenciamento de uma floricultura, permite a adição, consulta, remoção e edição de:
 
