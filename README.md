@@ -3,7 +3,7 @@ projeto da disciplina de Oficina de Integração 1
 
 CRUD simples para gerenciamento de uma floricultura, permite a adição, consulta, remoção e edição de:
 
-- flores
+- plantas
 - clientes
 - produtos
 - fornecedores
