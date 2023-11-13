@@ -5,7 +5,7 @@ name: Java CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main", "enable-autoupload-artifact" ]
   pull_request:
     branches: [ "main" ]
 
