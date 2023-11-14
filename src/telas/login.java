@@ -48,7 +48,7 @@ public class login extends javax.swing.JFrame {
         jLabel2.setText("Senha:");
 
         botaoLogin.setBackground(new java.awt.Color(204, 204, 204));
-        botaoLogin.setText("Entrar");
+        botaoLogin.setText("Login");
         botaoLogin.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 botaoLoginActionPerformed(evt);
