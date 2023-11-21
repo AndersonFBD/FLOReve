@@ -117,7 +117,7 @@ public class login extends javax.swing.JFrame {
                 this.dispose();
             }
             else{
-            JOptionPane.showMessageDialog(rootPane, "acesso negado");
+            JOptionPane.showMessageDialog(rootPane, "acesso nao permitido");
             }
         }
             
